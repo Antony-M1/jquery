@@ -7,5 +7,5 @@ jQuery is a lightweight, "write less, do more", JavaScript library. The purpose 
 This documentation is derived from different open-source sites and other sites. It will help you to understand the `JQuery` easily and make your learning easy.
 
 # Table Of Content
-* JQuery Basic
+* [JQuery Basic](https://github.com/Antony-M1/jquery/blob/main/docs/basic.md)
 * JQuery Effect
